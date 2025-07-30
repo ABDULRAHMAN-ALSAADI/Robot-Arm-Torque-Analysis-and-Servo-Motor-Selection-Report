@@ -42,7 +42,7 @@ While adding gears can increase torque, it introduces several significant drawba
 
 3 - **Reduced Efficiency and Increased Friction:** 🔥 Gearboxes are not 100% efficient; some energy is lost due to friction between the gear teeth. This reduces the overall efficiency of the system and can generate heat. 
 
-4- ** Maintenance:** 🛠️ More mechanical components mean more maintenance. Gears can wear out, require lubrication, and may need periodic replacement.
+4-  **Maintenance:** 🛠️ More mechanical components mean more maintenance. Gears can wear out, require lubrication, and may need periodic replacement.
 
 5 - **Cost:** 💸 While individual gears might be cheap, designing, manufacturing, and integrating custom gearboxes can add significant cost to the project.
 
