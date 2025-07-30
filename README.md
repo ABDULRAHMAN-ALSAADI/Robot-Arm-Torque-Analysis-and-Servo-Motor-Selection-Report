@@ -14,8 +14,8 @@ This document provides a concise analysis of the torque requirements for a 3-Deg
 
 ## ⚡ Torque Calculations
 
-Torque (τ) = Force (F) × Lever Arm (r)
-Force (F) = Mass (m) × Gravity (g)
+- Torque (τ) = Force (F) × Lever Arm (r)
+- Force (F) = Mass (m) × Gravity (g)
 
 ##  📷  Picture of the Calc :
 
