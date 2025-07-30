@@ -6,7 +6,7 @@ This document provides a concise analysis of the torque requirements for a 3-Deg
 
 - Payload: 1 kg 📦
 
-### Link Lengths:
+  Link Lengths:
 - Link 2 (Joint 1 to Joint 2): 10 cm (0.1 m)
 - Link 3 (Joint 2 to End Effector): 15 cm (0.15 m)
 - End Effector: 4 cm (0.04 m)
